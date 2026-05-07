@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 3f4a4d769ac4efe458181170c2abd4fd
+  m_SerializeEntries:
+  - m_GUID: 3dc4334650d296641972a7da30293dcb
+    m_Address: Assets/App/Prefabs/bullet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 523462b8200ee2049818a559c210e1cb
+    m_Address: Assets/App/Prefabs/Creeps/Wolves/wolfspawn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54dfb1926be4c124bbba0773bcc99ee0
+    m_Address: Assets/App/Prefabs/Creeps/Sheeps/sheep.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64e7ac616d8094444b45c513f1a0d334
+    m_Address: Assets/App/Prefabs/chunkBase.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f4b06e621d7cb047a3e8113aba5f217
+    m_Address: Assets/App/Prefabs/grass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 740e1a9814dde4b46bb2d9edff40d7f7
+    m_Address: Assets/App/Prefabs/GrassPlane.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afbdb3c8a5c18544ea7375076170e0b7
+    m_Address: Assets/App/Prefabs/statsWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c64b9b56c9ea6004194bb3d034fe0a5b
+    m_Address: Assets/App/Prefabs/specializationWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9b7d04c9509efa49abfe2f3a20dff06
+    m_Address: Assets/App/Prefabs/CinemachineCamera.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd87a40c8f01eb6439a455f40590f1ea
+    m_Address: Assets/App/Configs/player.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7196bee6b83f0047b907b67b99938c4
+    m_Address: Assets/App/Prefabs/Creeps/Wolves/wolf.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9cfcf42945646e44b736520dbe9038c
+    m_Address: Assets/App/Prefabs/Creeps/Sheeps/yard.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7685fce27ad67c14598c800725010e5b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 55d9eba260a093b48aebf5a783b990ed, type: 2}
+    - {fileID: 11400000, guid: c8f82b0835edbe747babc2ae0670291f, type: 2}

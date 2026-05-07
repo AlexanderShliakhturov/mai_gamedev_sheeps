@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d65bdb95879418b8d7ec3302ec82919, type: 3}
+  m_Name: GrassServiceConfig
+  m_EditorClassIdentifier: Assembly-CSharp::App.Scripts.Services.Grass.Config.GrassServiceConfig
+  grassPlaneReference:
+    m_AssetGUID: 740e1a9814dde4b46bb2d9edff40d7f7
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  grassPlaneConfig:
+    emitCount: 5
+    grassReference:
+      m_AssetGUID: 6f4b06e621d7cb047a3e8113aba5f217
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0

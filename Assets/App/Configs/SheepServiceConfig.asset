@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ccd6c013ee41e6a2c803a7a4e79079, type: 3}
+  m_Name: SheepServiceConfig
+  m_EditorClassIdentifier: Assembly-CSharp::App.Scripts.Services.Creeps.Sheeps.Config.SheepServiceConfig
+  sheepYardReference:
+    m_AssetGUID: f9cfcf42945646e44b736520dbe9038c
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  interestConfig:
+    emitCount: 3
+    sheepReference:
+      m_AssetGUID: 54dfb1926be4c124bbba0773bcc99ee0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  statsWindowReference:
+    m_AssetGUID: afbdb3c8a5c18544ea7375076170e0b7
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0

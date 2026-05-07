@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ef96547f7b34870b7e9f842581a1976, type: 3}
+  m_Name: CameraServiceConfig
+  m_EditorClassIdentifier: Assembly-CSharp::App.Scripts.Services.Camera.Config.CameraServiceConfig
+  cameraReference:
+    m_AssetGUID: c9b7d04c9509efa49abfe2f3a20dff06
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
